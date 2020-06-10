@@ -1,0 +1,6 @@
+testcases\Action.class
+base\Excel_Config.class
+locator_pages\Locator_PlaceOrder.class
+testcases\TestCase_eCommerce.class
+base\Base.class
+locator_pages\Locator_Registration.class
